@@ -2,6 +2,8 @@
 
 > Status: C O M P L E T O
 
+> Objetivo: A P R E N D I Z A G E M
+
 Para rodar o projeto em sua maquina, digite:
 
 ```
