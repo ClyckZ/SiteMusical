@@ -1,8 +1,11 @@
 <h1>Site Musical Do Curso Alura</h1>
 
-> Status: C O M P L E T O
+<p align="center">
+<img src="http://img.shields.io/static/v1?label=STATUS:&message=COMPLETO&color=GREEN&style=for-the-badge"/>
+</p>
 
-> Objetivo: A P R E N D I Z A G E M
+
+> Objetivo: ```A P R E N D I Z A G E M```
 
 > Ferramenta: ```Visual Studio Code```
 
