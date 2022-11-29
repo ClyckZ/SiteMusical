@@ -4,6 +4,8 @@
 
 > Objetivo: A P R E N D I Z A G E M
 
+> Ferramenta: ```Visual Studio Code```
+
 Para rodar o projeto em sua maquina, digite:
 
 ```
